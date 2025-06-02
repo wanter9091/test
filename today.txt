@@ -1,4 +1,4 @@
-date : 2025.05.29
+date : 2025.05.29 (목)
 name : 류홍석
 
 desc : 더존 1기 DevOps Tools 강의 Git 실습
